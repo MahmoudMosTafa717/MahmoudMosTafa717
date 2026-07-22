@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🎓 B.Sc. in Computers and Information Technology<br>- 💻 Full-Stack Web Developer (MongoDB, Express.js, React, Node.js and Angular)<br>- 🤖 Interested in AI-powered applications and software engineering<br>- 🌱 Currently improving my backend architecture and system design skills</p>
+<p align="left">- 🎓 B.Sc. in Computers and Information Technology<br>- 💻 Full-Stack Web Developer (MongoDB, Express.js, React, Node.js and Angular)<br>- 🤖 Interested in AI-powered applications and software engineering<br>- 🌱 Currently improving my backend architecture and design skills</p>
 
 ###
 
