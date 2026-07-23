@@ -5,7 +5,7 @@
 ###
 <div align="center">
   <a href="https://mahmoud-mostafa.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" height="28" alt="portfolio"/>
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="portfolio"/>
   </a>
 </div>
 <div align="center">
